@@ -8,6 +8,7 @@ namespaces = {"content": "http://purl.org/rss/1.0/modules/content/"}
 
 tree = e.parse("squarespace-wordpress-export-06-24-2014.xml")
 root = tree.getroot()
+
 for x in root.findall("./channel/item"):
   title = x.find("title").text
   if title.startswith("attachment-"):
@@ -25,14 +26,23 @@ for x in root.findall("./channel/item"):
 
   for i in soup:
     if isinstance(i, NavigableString):
+      contentstr += "\n"
       continue
+
     if i.name == "ul":
       for l in i:
         if isinstance(l, NavigableString):
           continue
         links.append((l.a.contents[0], l.a.get("href")))
-    else:
-      contentstr += i.contents[0] + "\n"
+    elif i.name == "p":
+      for e in i:
+        if isinstance(e, NavigableString):
+          contentstr += e.string
+        elif e.name == "a":
+          contentstr += "[%s](%s)" % (e.contents[0], e.get("href"))
+      contentstr += "\n"
+    elif i.name == "h2":
+      contentstr += "## %s ##" % i.string
 
     try:
       slug = int(title.split(" ")[1])
@@ -48,8 +58,6 @@ for x in root.findall("./channel/item"):
   print "+++"
   print ""
   print contentstr.encode("utf-8")
-  print ""
-  print "Laenkar\n--"
 
   for l in links:
     print "* [%s](%s)" % (l[0].encode("utf-8"), l[1].encode("utf-8"))
