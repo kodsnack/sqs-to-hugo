@@ -535,7 +535,7 @@
       <wp:comment_status>open</wp:comment_status>
     </item>
     <item>
-      <title>Ett nytt kapitel</title>
+      <title>Kodsnack 50.5 Ett nytt kapitel</title>
       <link>/blog/2014/4/6/ett-nytt-kapitel</link>
       <content:encoded><![CDATA[<p>Vi som gör Kodsnack presenterar oss för nya lyssnare och berättar om nästa steg i programmets utveckling.</p>
 
@@ -1975,7 +1975,7 @@ Noa jobbar med öppen källkod på <a href="http://www.spotify.se">Spotify</a>, 
       <dc:creator>krig@koru.se</dc:creator>
     </item>
     <item>
-      <title>Kodsnack på Internetdagarna, avsnitt 2 - Stockholm Makerspace</title>
+      <title>Kodsnack 33 - På Internetdagarna, avsnitt 2 - Stockholm Makerspace</title>
       <link>/blog/2013/11/25/kodsnack-p-internetdagarna-avsnitt-2-stockholm-makerspace</link>
       <content:encoded><![CDATA[<p>Tobias intervjuar Andreas Lundquist, Stockholm Makerspace</p>
 
@@ -2006,7 +2006,7 @@ T-Shirts, allt är välkommet.</p><div class="sqs-audio-embed"
       <wp:comment_status>closed</wp:comment_status>
     </item>
     <item>
-      <title>Kodsnack på internetdagarna, avsnitt 1 - Demokrati och sånt #ind13</title>
+      <title>Kodsnack 32 - På internetdagarna, avsnitt 1 - Demokrati och sånt #ind13</title>
       <link>/blog/2013/11/25/kodsnack-p-internetdagarna-avsnitt-1-demokrati-och-snt-ind13</link>
       <content:encoded><![CDATA[<p>Vi är på <a href="http://internetdagarna.se">internetdagarna</a>! Eller ja, Tobias är på internetdagarna. Han har precis sett keynotes från Jimmy Wales och Rebecca McKinnon, och diskuterar intrycken med Kristoffer som sitter 15 våningar upp i samma byggnad. Fredrik är också i närheten, men av skäl vi helst inte går in närmare på här (men som vi diskuterar i avsnittet) är han inte med.</p>
 
@@ -2034,7 +2034,7 @@ T-Shirts, allt är välkommet.</p><div class="sqs-audio-embed"
       <wp:comment_status>closed</wp:comment_status>
     </item>
     <item>
-      <title>Kodsnack på Internetdagarna</title>
+      <title>Kodsnack 31 - På Internetdagarna</title>
       <link>/blog/2013/11/22/hr-r-en-test-nyhet</link>
       <content:encoded><![CDATA[<p>Imorgon startar <a href="http://www.internetdagarna.se">Internetdagarna</a> - konferensen för alla som arbetar med nätet nu och i framtiden. Hela kodsnackredaktionen kommer att vara på plats och snacka om våra intryck av talare, tankar och ämnen. Målet är att få ut våra intryck så snabbt som möjligt, om vi verkligen har tekniken med oss kan det till och med finnas chans till livesändning. Mer information kommer att dyka upp på Twitter.</p>
 
@@ -2240,7 +2240,7 @@ T-Shirts, allt är välkommet.</p><div class="sqs-audio-embed"
       <wp:comment_status>closed</wp:comment_status>
     </item>
     <item>
-      <title>Kodsnack 28,5 - Större än båda dina barn</title>
+      <title>Kodsnack 28.5 - Större än båda dina barn</title>
       <link>/blog/2013/9/30/kodsnack-28-telefonsnack</link>
       <content:encoded><![CDATA[<p>Extramaterial för avsnitt 28: Tobias berättar för Fredrik om sina intryck av Sonys Experia Z ultra - Sonys maffiga 6,4-tums-telefon.</p>
 
@@ -3377,39 +3377,6 @@ git config --global rerere.enabled true</p>
       <wp:comment_status>closed</wp:comment_status>
     </item>
     <item>
-      <title>Bokklubb - Pushing Ice</title>
-      <link>/blog/2012/10/16/bokklubb-pushing-ice</link>
-      <content:encoded><![CDATA[<p>Tack vare alla glada tillrop efter <a href="http://kodsnack.se/2012/10/5/kodsnack-4-amish-folk-som-programmerar">sci/fi-avsnittet</a> har vi bestämt oss för att köra igång en liten bokklubb! Man måste inte vara en kodare för att vara med och läsa, det räcker med att vara intresserad av science fiction eller technothrillers eller cyberpunk eller vad vi nu kan komma på som känns rätt och passande.</p>
-
-<p>I korta drag ser upplägget ut så här: Fredrik, Kristoffer och Tobias kommer att läsa boken <a href="http://www.amazon.com/gp/product/0441015026/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&amp;camp=1789&amp;creative=9325&amp;creativeASIN=0441015026&amp;linkCode=as2&amp;tag=kodsnack-20">Pushing Ice av Alastair Reynolds</a>, och vi bjuder in er att läsa den tillsammans med oss! Ett avsnitt i slutet av november kommer att avhandla boken, vi kommer disassemblera, debugga och undersöka boken i detalj i det avsnittet. Hoppas att ni kommer att gilla boken och upplägget med att ibland då och då ha ett litet avbrott från det vanliga programmet.</p>
-
-<h2 id="kpbokenhr">Köp boken här</h2>
-
-<ul>
-<li><a href="http://www.amazon.com/gp/product/0441015026/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&amp;camp=1789&amp;creative=9325&amp;creativeASIN=0441015026&amp;linkCode=as2&amp;tag=kodsnack-20">Amazon</a></li>
-<li><a href="http://www.sfbok.se/asp/artikel.asp?VolumeID=78889">Sfbok.se</a></li>
-<li><a href="http://www.audible.com/pd/ref=sr_1_1?asin=B0049WSD36&amp;qid=1350370071&amp;sr=1-1">Audible</a></li>
-</ul>
-
-<p>(Amazon-länken är en affiliate-länk, så köper ni från amazon går en liten slant till oss som gör podcasten)</p>]]></content:encoded>
-      <excerpt:encoded />
-      <wp:post_name>2012/10/16/bokklubb-pushing-ice</wp:post_name>
-      <wp:post_type>post</wp:post_type>
-      <wp:post_id>59</wp:post_id>
-      <wp:status>publish</wp:status>
-      <pubDate>Tue, 16 Oct 2012 06:37:19 +0000</pubDate>
-      <wp:post_date>2012-10-16 06:37:19</wp:post_date>
-      <wp:post_date_gmt>2012-10-16 06:37:19</wp:post_date_gmt>
-      <category domain="post_tag" nicename="pushing-ice"><![CDATA[pushing ice]]></category>
-      <category domain="post_tag" nicename="kodsnack"><![CDATA[kodsnack]]></category>
-      <category domain="post_tag" nicename="scifi"><![CDATA[scifi]]></category>
-      <category domain="post_tag" nicename="alastair-reynolds"><![CDATA[alastair reynolds]]></category>
-      <category domain="post_tag" nicename="bokklubb"><![CDATA[bokklubb]]></category>
-      <category domain="post_tag" nicename="lsning"><![CDATA[lsning]]></category>
-      <dc:creator>fredrik@bjoreman.com</dc:creator>
-      <wp:comment_status>closed</wp:comment_status>
-    </item>
-    <item>
       <title>Kodsnack 5 - Kanelbullens dag</title>
       <link>/blog/2012/10/12/kodsnack-5-kanelbullens-dag</link>
       <content:encoded><![CDATA[<p>Vi snackar Python - bra, dåligt, hur svårt det är att lära sig, vad vi använder det till och nyttiga verktyg för språket.</p>
@@ -3551,7 +3518,7 @@ git config --global rerere.enabled true</p>
       <wp:comment_status>closed</wp:comment_status>
     </item>
     <item>
-      <title>Kodsnack 2: Schizofrent på ett väldigt tudelat sätt</title>
+      <title>Kodsnack 2 - Schizofrent på ett väldigt tudelat sätt</title>
       <link>/blog/2012/9/16/kodsnack-2-att-brja-med-ios</link>
       <content:encoded><![CDATA[<p>Vi snackar om hur det är att börja utveckla för iOS, Objective-C, Apples utvecklingsverktyg och vad som händer när man ramlar ner i ramverkets skarvar. Viss diskussion kring hur den dynamiska duon LLVM/Clang gjort världen till en bättre plats är givetvis oundvikligt.</p>
 
@@ -3587,7 +3554,7 @@ git config --global rerere.enabled true</p>
       <wp:comment_status>closed</wp:comment_status>
     </item>
     <item>
-      <title>Kodsnack 1: Som att handla på IKEA</title>
+      <title>Kodsnack 1 - Som att handla på IKEA</title>
       <link>/blog/2012/9/16/kodsnack-1-som-att-handla-p-ikea</link>
       <content:encoded><![CDATA[<p>Vi snackar bra och dåligt med plattformar vi utvecklat för och plattformar vi är nyfikna på.</p>
 
@@ -3637,7 +3604,7 @@ git config --global rerere.enabled true</p>
       <wp:comment_status>closed</wp:comment_status>
     </item>
     <item>
-      <title>Kodsnack 0: Presentationer och utvecklare av idag</title>
+      <title>Kodsnack 0 - Presentationer och utvecklare av idag</title>
       <link>/blog/2012/8/31/kodsnack-0-presentationer-och-utvecklare-av-idag</link>
       <content:encoded><![CDATA[<p>Vi som gör Kodsnack presenterar oss, diskuterar hur vi blivit utvecklare och vad som egentligen krävs för att koda nuförtiden.</p><div class="sqs-audio-embed"
      data-url="http://static.squarespace.com/static/50311e88c4aa66e8231a3296/50311e88c4aa66e8231a32a0/5043a623e4b0991b7269cad9/1346610943962/Fredriks%20Kodsnack%20%230.mp3/original/Fredriks+Kodsnack+%230.mp3"
@@ -3677,24 +3644,6 @@ git config --global rerere.enabled true</p>
       <wp:post_date>2012-09-02 18:32:03</wp:post_date>
       <wp:post_date_gmt>2012-09-02 18:32:03</wp:post_date_gmt>
       <dc:creator>fredrik@bjoreman.com</dc:creator>
-    </item>
-    <item>
-      <title>Kodsnack 0 på gång!</title>
-      <link>/blog/2012/8/30/kodsnack-0-p-gng</link>
-      <content:encoded><![CDATA[<p>I går spelade vi in första avsnittet av kodsnack och vi kommer snart posta det här. Förberedelserna har varit många och långa... Mikrofoner har skaffats, testats, kalibrerats och justerats. Inspelningsmetoder och ljudvolymer diskuterats. Logotyper och jinglar avhandlats.</p>
-
-<p>Ja, och så har vi faktiskt funderat lite på det här med innehåll också, men visst är väl ändå huvudsaken att man har tekniken i ordning?</p>]]></content:encoded>
-      <excerpt:encoded />
-      <wp:post_name>2012/8/30/kodsnack-0-p-gng</wp:post_name>
-      <wp:post_type>post</wp:post_type>
-      <wp:post_id>67</wp:post_id>
-      <wp:status>publish</wp:status>
-      <pubDate>Thu, 30 Aug 2012 16:16:44 +0000</pubDate>
-      <wp:post_date>2012-08-30 16:16:44</wp:post_date>
-      <wp:post_date_gmt>2012-08-30 16:16:44</wp:post_date_gmt>
-      <category domain="post_tag" nicename="kodsnack-inspelning"><![CDATA[kodsnack inspelning]]></category>
-      <dc:creator>fredrik@bjoreman.com</dc:creator>
-      <wp:comment_status>open</wp:comment_status>
     </item>
     <item>
       <title>Kodsnack 56 - Små små lösningar på små små problem</title>
