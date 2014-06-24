@@ -23,6 +23,7 @@ for x in root.findall("./channel/item"):
 
   links = []
   contentstr = u""
+  audiofile = None
 
   for i in soup:
     if isinstance(i, NavigableString):
@@ -43,6 +44,8 @@ for x in root.findall("./channel/item"):
       contentstr += "\n"
     elif i.name == "h2":
       contentstr += "## %s ##" % i.string
+    elif i.name == "div" and i.get("class") == "sqs-audio-embed":
+      audiofile = i.get("data-url")
 
     try:
       slug = int(title.split(" ")[1])
@@ -50,11 +53,14 @@ for x in root.findall("./channel/item"):
       slug = title.replace(" ", "_")
 
   print "+++"
+  print "date = " + date
   print "draft = false"
   print "title = \"" + title + "\""
   print "slug = \"" + str(slug) + "\""
   print "aliases = [\"" + alias + "\"]"
   print "categories = [\"avsnitt\"]"
+  if audiofile is not None:
+    print "audiofile = \"" + audiofile + "\""
   print "+++"
   print ""
   print contentstr.encode("utf-8")
