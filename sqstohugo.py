@@ -43,7 +43,7 @@ for x in root.findall("./channel/item"):
   print "draft = false"
   print "title = \"" + title + "\""
   print "slug = \"" + str(slug) + "\""
-  print "aliases = [\"" + alias + "\""
+  print "aliases = [\"" + alias + "\"]"
   print "categories = [\"avsnitt\"]"
   print "+++"
   print ""
